@@ -187,9 +187,9 @@ function getAbsoluteTop(elem) {
     } else if ($a.classList.contains('share')) {
       e.preventDefault();
       window.navigator.share({
-        title: '2025.04.27. farick ♥ fajriya',
-        text: '2025.04.27\nfarick ♥ fajriya\n\nWe want to continue the relationship we have built by supporting and protecting each other as a couple. Please give us a round of applause to encourage us as we look forward to our new life together under the dazzling blue summer sky.',
-        url: 'https://farick94.github.io/invite/?farick&fajriya',
+        title: '2025.04.26. farick ♥ fajriya',
+        text: '2025.04.26\nfarick ♥ fajriya\n\nWe want to continue the relationship we have built by supporting and protecting each other as a couple. Please give us a round of applause to encourage us as we look forward to our new life together under the dazzling blue summer sky.',
+        url: 'https://farick94.github.io/weeding/?farick&fajriya',
       });
     }
   });
